@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/galangarbis/demoapi/issues"
   },
-  "homepage": "https://github.com/galangarbis/demoapi#readme"
+  "homepage": "https://github.com/galangarbis/demoapi#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
