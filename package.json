@@ -1,0 +1,23 @@
+{
+  "name": "demoapi",
+  "version": "1.0.0",
+  "description": "try to making API with Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galangarbis/demoapi.git"
+  },
+  "keywords": [
+    "Node",
+    "API"
+  ],
+  "author": "M Galang Arbi S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galangarbis/demoapi/issues"
+  },
+  "homepage": "https://github.com/galangarbis/demoapi#readme"
+}
