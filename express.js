@@ -9,3 +9,11 @@ app.listen(3000, function() {
 app.get('/',function(req,res) {
     res.send("Hello from Express JS");
 });
+
+app.get('/Admin',function(req,res){
+    res.send("it's Admin Page");
+});
+
+app.get('/Member',function(req,res){
+    res.send("it's Member Page");
+});
